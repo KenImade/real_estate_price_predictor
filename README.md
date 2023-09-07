@@ -4,9 +4,9 @@ This project was developed to create models for the prediction of house prices i
 and Brighton in the UK.
 
 ### Tech Stack
-Python
-SQL
-Jupyter Notebooks
-HTML
-CSS
-JavaScript
+- Python
+- SQL
+- Jupyter Notebooks
+- HTML
+- CSS
+- JavaScript

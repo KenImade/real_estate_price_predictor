@@ -1,2 +1,5 @@
 sandbox.py
 Data/
+.ipynb_checkpoints/
+cache
+__pycache__/
